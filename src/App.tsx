@@ -1,24 +1,35 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {useState} from 'react';
 import './App.css';
+import rawData from "./data/questions.json";
+import IndexCard from "./component/IndexCard";
 
-function App() {
+interface Question {
+  title: string,
+  subtitle: string,
+  question: string,
+  answer: Array<string>
+}
+
+const getRandomInt = (min: number, max: number): number => {
+  // Calculate a random number between min (inclusive) and max (exclusive)
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
+const App = () => {
+  const [id, setId] = useState<number>(0);
+
+  const items = Object.values(rawData).map(v => {
+    const question: Question = v
+    return question;
+  })
+
+  const changeQuestion = () => {
+    setId(getRandomInt(0, items.length - 1));
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <IndexCard question={items[id]} refresh={changeQuestion}/>
     </div>
   );
 }

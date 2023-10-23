@@ -1,0 +1,981 @@
+{
+  "1": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Principles of American Democracy",
+    "question": "What is the supreme law of the land?",
+    "answer": [
+      "the Constitution"
+    ]
+  },
+  "2": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Principles of American Democracy",
+    "question": "What does the Constitution do?",
+    "answer": [
+      "sets up the government",
+      "defines the government",
+      "protects basic rights of Americans"
+    ]
+  },
+  "3": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Principles of American Democracy",
+    "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+    "answer": [
+      "We the People"
+    ]
+  },
+  "4": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Principles of American Democracy",
+    "question": "What is an amendment?",
+    "answer": [
+      "a change (to the Constitution)",
+      "an addition (to the Constitution)"
+    ]
+  },
+  "5": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Principles of American Democracy",
+    "question": "What do we call the first ten amendments to the Constitution?",
+    "answer": [
+      "the Bill of Rights"
+    ]
+  },
+  "6": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Principles of American Democracy",
+    "question": "What is one right or freedom from the First Amendment?*",
+    "answer": [
+      "speech",
+      "religion",
+      "assembly",
+      "press",
+      "petition the government"
+    ]
+  },
+  "7": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Principles of American Democracy",
+    "question": "How many amendments does the Constitution have?",
+    "answer": [
+      "twenty-seven (27)"
+    ]
+  },
+  "8": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Principles of American Democracy",
+    "question": "What did the Declaration of Independence do?",
+    "answer": [
+      "announced our independence (from Great Britain)",
+      "declared our independence (from Great Britain)",
+      "said that the United States is free (from Great Britain)"
+    ]
+  },
+  "9": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Principles of American Democracy",
+    "question": "What are two rights in the Declaration of Independence?",
+    "answer": [
+      "life",
+      "liberty",
+      "pursuit of happiness"
+    ]
+  },
+  "10": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Principles of American Democracy",
+    "question": "What is freedom of religion?",
+    "answer": [
+      "You can practice any religion, or not practice a religion."
+    ]
+  },
+  "11": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Principles of American Democracy",
+    "question": "What is the economic system in the United States?*",
+    "answer": [
+      "capitalist economy",
+      "market economy"
+    ]
+  },
+  "12": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What is the “rule of law”?",
+    "answer": [
+      "Everyone must follow the law.",
+      "Leaders must obey the law.",
+      "Government must obey the law.",
+      "No one is above the law."
+    ]
+  },
+  "13": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Name one branch or part of the government.*",
+    "answer": [
+      "Congress",
+      "legislative",
+      "President",
+      "executive",
+      "the courts",
+      "judicial"
+    ]
+  },
+  "14": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What stops one branch of government from becoming too powerful?",
+    "answer": [
+      "checks and balances",
+      "separation of powers"
+    ]
+  },
+  "15": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Who is in charge of the executive branch?",
+    "answer": [
+      "the President"
+    ]
+  },
+  "16": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Who makes federal laws?",
+    "answer": [
+      "Congress",
+      "Senate and House (of Representatives)",
+      "(U.S. or national) legislature"
+    ]
+  },
+  "17": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What are the two parts of the U.S. Congress?*",
+    "answer": [
+      "the Senate and House (of Representatives)"
+    ]
+  },
+  "18": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "How many U.S. Senators are there?",
+    "answer": [
+      "one hundred (100)"
+    ]
+  },
+  "19": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "We elect a U.S. Senator for how many years?",
+    "answer": [
+      "six (6)"
+    ]
+  },
+  "20": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Who is one of your state’s U.S. Senators now?*",
+    "answer": [
+      "John Liu (Chairman of New York City Education Committee)"
+    ]
+  },
+  "21": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "The House of Representatives has how many voting members?",
+    "answer": [
+      "four hundred thirty-five (435)"
+    ]
+  },
+  "22": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "We elect a U.S. Representative for how many years?",
+    "answer": [
+      "two (2)"
+    ]
+  },
+  "23": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Name your U.S. Representative.",
+    "answer": [
+      "Jamaal Bowman"
+    ]
+  },
+  "24": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Who does a U.S. Senator represent?",
+    "answer": [
+      "all people of the state"
+    ]
+  },
+  "25": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Why do some states have more Representatives than other states?",
+    "answer": [
+      "(because of) the state’s population",
+      "(because) they have more people",
+      "(because) some states have more people"
+    ]
+  },
+  "26": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "We elect a President for how many years?",
+    "answer": [
+      "four (4)"
+    ]
+  },
+  "27": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "In what month do we vote for President?*",
+    "answer": [
+      "November"
+    ]
+  },
+  "28": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What is the name of the President of the United States now?*",
+    "answer": [
+      "Joe Biden"
+    ]
+  },
+  "29": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What is the name of the Vice President of the United States now?",
+    "answer": [
+      "Kamala Harris"
+    ]
+  },
+  "30": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "If the President can no longer serve, who becomes President?",
+    "answer": [
+      "the Vice President"
+    ]
+  },
+  "31": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "If both the President and the Vice President can no longer serve, who becomes President?",
+    "answer": [
+      "the Speaker of the House"
+    ]
+  },
+  "32": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Who is the Commander in Chief of the military?",
+    "answer": [
+      "the President"
+    ]
+  },
+  "33": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Who signs bills to become laws?",
+    "answer": [
+      "the President"
+    ]
+  },
+  "34": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Who vetoes bills?",
+    "answer": [
+      "the President"
+    ]
+  },
+  "35": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What does the President’s Cabinet do?",
+    "answer": [
+      "advises the President"
+    ]
+  },
+  "36": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What are two Cabinet-level positions?",
+    "answer": [
+      "Secretary of Agriculture",
+      "Secretary of Commerce",
+      "Secretary of Defense",
+      "Secretary of Education",
+      "Secretary of Energy",
+      "Secretary of Health and Human Services",
+      "Secretary of Homeland Security",
+      "Secretary of Housing and Urban Development",
+      "Secretary of the Interior",
+      "Secretary of Labor",
+      "Secretary of State",
+      "Secretary of Transportation",
+      "Secretary of the Treasury",
+      "Secretary of Veterans Affairs",
+      "Attorney General",
+      "Vice President"
+    ]
+  },
+  "37": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What does the judicial branch do?",
+    "answer": [
+      "reviews laws",
+      "explains laws",
+      "resolves disputes (disagreements)",
+      "decides if a law goes against the Constitution"
+    ]
+  },
+  "38": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What is the highest court in the United States?",
+    "answer": [
+      "the Supreme Court"
+    ]
+  },
+  "39": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "How many justices are on the Supreme Court?",
+    "answer": [
+      "nine (9)"
+    ]
+  },
+  "40": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Who is the Chief Justice of the United States now?",
+    "answer": [
+      "John Roberts "
+    ]
+  },
+  "41": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?",
+    "answer": [
+      "to print money",
+      "to declare war",
+      "to create an army",
+      "to make treaties"
+    ]
+  },
+  "42": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Under our Constitution, some powers belong to the states. What is one power of the states?",
+    "answer": [
+      "provide schooling and education",
+      "provide protection (police)",
+      "provide safety (fire departments)",
+      "give a driver’s license",
+      "approve zoning and land use"
+    ]
+  },
+  "43": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "Who is the Governor of your state now?",
+    "answer": [
+      "Kathy Hochul"
+    ]
+  },
+  "44": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What is the capital of your state?*",
+    "answer": [
+      "Albany"
+    ]
+  },
+  "45": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What are the two major political parties in the United States?*",
+    "answer": [
+      "Democratic and Republican"
+    ]
+  },
+  "46": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "System of Government",
+    "question": "What is the political party of the President now?",
+    "answer": [
+      "Democratic (Party)"
+    ]
+  },
+  "47": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Rights and Responsibilities",
+    "question": "What is the name of the Speaker of the House of Representatives now?",
+    "answer": [
+      "Patrick McHenry or We do not have one"
+    ]
+  },
+  "48": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Rights and Responsibilities",
+    "question": "There are four amendments to the Constitution about who can vote. Describe one of them.",
+    "answer": [
+      "Citizens eighteen (18) and older (can vote).",
+      "You don’t have to pay (a poll tax) to vote.",
+      "Any citizen can vote. (Women and men can vote.)",
+      "A male citizen of any race (can vote)."
+    ]
+  },
+  "49": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Rights and Responsibilities",
+    "question": "What is one responsibility that is only for United States citizens?*",
+    "answer": [
+      "serve on a jury",
+      "vote in a federal election"
+    ]
+  },
+  "50": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Rights and Responsibilities",
+    "question": "Name one right only for United States citizens.",
+    "answer": [
+      "vote in a federal election",
+      "run for federal office"
+    ]
+  },
+  "51": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Rights and Responsibilities",
+    "question": "What are two rights of everyone living in the United States?",
+    "answer": [
+      "freedom of expression",
+      "freedom of speech",
+      "freedom of assembly",
+      "freedom to petition the government",
+      "freedom of religion",
+      "the right to bear arms"
+    ]
+  },
+  "52": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Rights and Responsibilities",
+    "question": "What do we show loyalty to when we say the Pledge of Allegiance?",
+    "answer": [
+      "the United States",
+      "the flag"
+    ]
+  },
+  "53": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Rights and Responsibilities",
+    "question": "What is one promise you make when you become a United States citizen?",
+    "answer": [
+      "give up loyalty to other countries",
+      "defend the Constitution and laws of the United States",
+      "obey the laws of the United States",
+      "serve in the U.S. military (if needed)",
+      "serve (do important work for) the nation (if needed)",
+      "be loyal to the United States"
+    ]
+  },
+  "54": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Rights and Responsibilities",
+    "question": "How old do citizens have to be to vote for President?*",
+    "answer": [
+      "eighteen (18) and older"
+    ]
+  },
+  "55": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Rights and Responsibilities",
+    "question": "What are two ways that Americans can participate in their democracy?",
+    "answer": [
+      "vote",
+      "join a political party",
+      "help with a campaign",
+      "join a civic group",
+      "join a community group",
+      "give an elected official your opinion on an issue",
+      "call Senators and Representatives",
+      "publicly support or oppose an issue or policy",
+      "run for office",
+      "write to a newspaper"
+    ]
+  },
+  "56": {
+    "title": "AMERICAN GOVERNMENT",
+    "subtitle": "Rights and Responsibilities",
+    "question": "When is the last day you can send in federal income tax forms?*",
+    "answer": [
+      "April 15"
+    ]
+  },
+  "57": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "When must all men register for the Selective Service?",
+    "answer": [
+      "at age eighteen (18)",
+      "between eighteen (18) and twenty-six (26)"
+    ]
+  },
+  "58": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "What is one reason colonists came to America?",
+    "answer": [
+      "freedom",
+      "political liberty",
+      "religious freedom",
+      "economic opportunity",
+      "practice their religion",
+      "escape persecution"
+    ]
+  },
+  "59": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "Who lived in America before the Europeans arrived?",
+    "answer": [
+      "American Indians",
+      "Native Americans"
+    ]
+  },
+  "60": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "What group of people was taken to America and sold as slaves?",
+    "answer": [
+      "Africans",
+      "people from Africa"
+    ]
+  },
+  "61": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "Why did the colonists fight the British?",
+    "answer": [
+      "because of high taxes (taxation without representation)",
+      "because the British army stayed in their houses (boarding, quartering)",
+      "because they didn’t have self-government"
+    ]
+  },
+  "62": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "Who wrote the Declaration of Independence?",
+    "answer": [
+      "(Thomas) Jefferson"
+    ]
+  },
+  "63": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "When was the Declaration of Independence adopted?",
+    "answer": [
+      "July 4, 1776"
+    ]
+  },
+  "64": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "There were 13 original states. Name three.",
+    "answer": [
+      "New Hampshire",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia"
+    ]
+  },
+  "65": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "What happened at the Constitutional Convention?",
+    "answer": [
+      "The Constitution was written.",
+      "The Founding Fathers wrote the Constitution."
+    ]
+  },
+  "66": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "When was the Constitution written?",
+    "answer": [
+      "1787"
+    ]
+  },
+  "67": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+    "answer": [
+      "(James) Madison",
+      "(Alexander) Hamilton",
+      "(John) Jay",
+      "Publius"
+    ]
+  },
+  "68": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "What is one thing Benjamin Franklin is famous for?",
+    "answer": [
+      "U.S. diplomat",
+      "oldest member of the Constitutional Convention",
+      "first Postmaster General of the United States",
+      "writer of “Poor Richard’s Almanac”",
+      "started the first free libraries"
+    ]
+  },
+  "69": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Colonial Period and Independence",
+    "question": "Who is the “Father of Our Country”?",
+    "answer": [
+      "(George) Washington"
+    ]
+  },
+  "70": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "1800s",
+    "question": "Who was the first President?*",
+    "answer": [
+      "(George) Washington"
+    ]
+  },
+  "71": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "1800s",
+    "question": "What territory did the United States buy from France in 1803?",
+    "answer": [
+      "the Louisiana Territory",
+      "Louisiana"
+    ]
+  },
+  "72": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "1800s",
+    "question": "Name one war fought by the United States in the 1800s.",
+    "answer": [
+      "War of 1812",
+      "Mexican-American War",
+      "Civil War",
+      "Spanish-American War"
+    ]
+  },
+  "73": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "1800s",
+    "question": "Name the U.S. war between the North and the South.",
+    "answer": [
+      "the Civil War",
+      "the War between the States"
+    ]
+  },
+  "74": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "1800s",
+    "question": "Name one problem that led to the Civil War.",
+    "answer": [
+      "slavery",
+      "economic reasons",
+      "states’rights"
+    ]
+  },
+  "75": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "1800s",
+    "question": "What was one important thing that Abraham Lincoln did?*",
+    "answer": [
+      "freed the slaves (Emancipation Proclamation)",
+      "saved (or preserved) the Union",
+      "led the United States during the Civil War"
+    ]
+  },
+  "76": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "1800s",
+    "question": "What did the Emancipation Proclamation do?",
+    "answer": [
+      "freed the slaves",
+      "freed slaves in the Confederacy",
+      "freed slaves in the Confederate states",
+      "freed slaves in most Southern states"
+    ]
+  },
+  "77": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Recent American History and Other Important Historical Information",
+    "question": "What did Susan B. Anthony do?",
+    "answer": [
+      "fought for women’s rights",
+      "fought for civil rights"
+    ]
+  },
+  "78": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Recent American History and Other Important Historical Information",
+    "question": "Name one war fought by the United States in the 1900s.*",
+    "answer": [
+      "World War I",
+      "World War II",
+      "Korean War",
+      "Vietnam War",
+      "(Persian) Gulf War"
+    ]
+  },
+  "79": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Recent American History and Other Important Historical Information",
+    "question": "Who was President during World War I?",
+    "answer": [
+      "(Woodrow) Wilson"
+    ]
+  },
+  "80": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Recent American History and Other Important Historical Information",
+    "question": "Who was President during the Great Depression and World War II?",
+    "answer": [
+      "(Franklin) Roosevelt"
+    ]
+  },
+  "81": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Recent American History and Other Important Historical Information",
+    "question": "Who did the United States fight in World War II?",
+    "answer": [
+      "Japan, Germany, and Italy"
+    ]
+  },
+  "82": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Recent American History and Other Important Historical Information",
+    "question": "Before he was President, Eisenhower was a general. What war was he in?",
+    "answer": [
+      "World War II"
+    ]
+  },
+  "83": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Recent American History and Other Important Historical Information",
+    "question": "During the Cold War, what was the main concern of the United States?",
+    "answer": [
+      "Communism"
+    ]
+  },
+  "84": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Recent American History and Other Important Historical Information",
+    "question": "What movement tried to end racial discrimination?",
+    "answer": [
+      "civil rights (movement)"
+    ]
+  },
+  "85": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Recent American History and Other Important Historical Information",
+    "question": "What did Martin Luther King, Jr. do?*",
+    "answer": [
+      "fought for civil rights",
+      "worked for equality for all Americans"
+    ]
+  },
+  "86": {
+    "title": "AMERICAN HISTORY",
+    "subtitle": "Recent American History and Other Important Historical Information",
+    "question": "What major event happened on September 11, 2001, in the United States?",
+    "answer": [
+      "Terrorists attacked the United States."
+    ]
+  },
+  "87": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Geography",
+    "question": "Name one American Indian tribe in the United States.",
+    "answer": [
+      "SCIS Officers will be supplied with a list of federally recognized American Indian tribes.]",
+      "Cherokee",
+      "Navajo",
+      "Sioux",
+      "Chippewa",
+      "Choctaw",
+      "Pueblo",
+      "Apache",
+      "Iroquois",
+      "Creek",
+      "Blackfeet",
+      "Seminole",
+      "Cheyenne",
+      "Arawak",
+      "Shawnee",
+      "Mohegan",
+      "Huron",
+      "Oneida",
+      "Lakota",
+      "Crow",
+      "Teton",
+      "Hopi",
+      "Inuit"
+    ]
+  },
+  "88": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Geography",
+    "question": "Name one of the two longest rivers in the United States.",
+    "answer": [
+      "Missouri (River)",
+      "Mississippi (River)"
+    ]
+  },
+  "89": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Geography",
+    "question": "What ocean is on the West Coast of the United States?",
+    "answer": [
+      "Pacific (Ocean)"
+    ]
+  },
+  "90": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Geography",
+    "question": "What ocean is on the East Coast of the United States?",
+    "answer": [
+      "Atlantic (Ocean)"
+    ]
+  },
+  "91": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Geography",
+    "question": "Name one U.S. territory.",
+    "answer": [
+      "Puerto Rico",
+      "U.S. Virgin Islands",
+      "American Samoa",
+      "Northern Mariana Islands",
+      "Guam"
+    ]
+  },
+  "92": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Geography",
+    "question": "Name one state that borders Canada.",
+    "answer": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "New York",
+      "Pennsylvania",
+      "Ohio",
+      "Michigan",
+      "Minnesota",
+      "North Dakota",
+      "Montana",
+      "Idaho",
+      "Washington",
+      "Alaska"
+    ]
+  },
+  "93": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Geography",
+    "question": "Name one state that borders Mexico.",
+    "answer": [
+      "California",
+      "Arizona",
+      "New Mexico",
+      "Texas"
+    ]
+  },
+  "94": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Geography",
+    "question": "What is the capital of the United States?*",
+    "answer": [
+      "Washington, D.C."
+    ]
+  },
+  "95": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Symbols",
+    "question": "Where is the Statue of Liberty?*",
+    "answer": [
+      "New York (Harbor)",
+      "Liberty Island",
+      "lso acceptable are New Jersey, near New York City, and on the Hudson (River).]"
+    ]
+  },
+  "96": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Symbols",
+    "question": "Why does the flag have 13 stripes?",
+    "answer": [
+      "because there were 13 original colonies",
+      "because the stripes represent the original colonies"
+    ]
+  },
+  "97": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Symbols",
+    "question": "Why does the flag have 50 stars?*",
+    "answer": [
+      "because there is one star for each state",
+      "because each star represents a state",
+      "because there are 50 states"
+    ]
+  },
+  "98": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Holidays",
+    "question": "What is the name of the national anthem?",
+    "answer": [
+      "The Star-Spangled Banner"
+    ]
+  },
+  "99": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Holidays",
+    "question": "When do we celebrate Independence Day?*",
+    "answer": [
+      "July 4"
+    ]
+  },
+  "100": {
+    "title": "INTEGRATED CIVICS",
+    "subtitle": "Holidays",
+    "question": "Name two national U.S. holidays.",
+    "answer": [
+      "New Year’s Day",
+      "Martin Luther King, Jr. Day",
+      "Presidents’Day",
+      "Memorial Day",
+      "Independence Day",
+      "Labor Day",
+      "Columbus Day",
+      "Veterans Day",
+      "Thanksgiving",
+      "Christma"
+    ]
+  }
+}
