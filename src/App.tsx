@@ -22,11 +22,12 @@ const App = () => {
     const question: Question = v
     return question;
   })
-
   const changeQuestion = () => {
-    setId(getRandomInt(0, items.length - 1));
+    // random question 원하시면 이거 주석 풀고 아래 꺼 주석처리하세요
+    // setId(getRandomInt(0, items.length - 1));
+    setId(id < items.length - 1 ? id + 1 : 0);
   };
-
+  console.log(id + 1);
   return (
     <div className="App">
       <IndexCard question={items[id]} refresh={changeQuestion}/>
